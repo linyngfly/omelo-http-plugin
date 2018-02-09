@@ -1,12 +1,12 @@
 'use strict';
-var pomelo = require('pomelo');
+var omelo = require('omelo');
 var httpPlugin = require('../../');
 var path = require('path');
 
 /**
  * Init app for client.
  */
-var app = pomelo.createApp();
+var app = omelo.createApp();
 app.set('name', 'example');
 
 
