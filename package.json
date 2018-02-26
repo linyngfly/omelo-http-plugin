@@ -1,6 +1,6 @@
 {
   "name": "omelo-http-plugin",
-  "version": "0.0.30",
+  "version": "0.0.31",
   "private": false,
   "deprecated": false,
   "description": "Wrap koa2 module as omelo http plugin.",
@@ -50,8 +50,7 @@
     "koa-router": "^7.4.0",
     "koa-static": "^4.0.2",
     "koa-views": "^6.1.3",
-    "omelo-logger": ">=0.1.7",
-    "koa2-cors": "^2.0.5"
+    "omelo-logger": ">=0.1.7"
   },
   "devDependencies": {},
   "contributors": [
