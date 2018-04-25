@@ -1,6 +1,6 @@
 {
   "name": "omelo-http-plugin",
-  "version": "0.0.35",
+  "version": "0.0.36",
   "private": false,
   "deprecated": false,
   "description": "Wrap koa2 module as omelo http plugin.",
